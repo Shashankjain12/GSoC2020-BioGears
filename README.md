@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# BioGears GSoC'20 Website Porter
+###### 18th August 2020
 
-You can use the [editor on GitHub](https://github.com/Shashankjain12/GSoC2020-BioGears/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Describe my work briefly
+ 
+* Creating the Website Porter to port the whole website code from Java to Python.
+* Generate CMake targets to execute those Python Scripts.
+* Merging to the Repository for GSoC'20.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is done
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shashankjain12/GSoC2020-BioGears/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Generation of code documentation for execution of Website using Java thereby solving the issue [#43](https://github.com/BioGearsEngine/core/issues/43)
+2. Rewriting CDM2MD class in Python thereby porting the whole website by which we can generate with the help of XSDToDoxygen.py,CDM2MD.py , DoxygenPreprocessor.py script thereby solving the issue [#44](https://github.com/BioGearsEngine/core/issues/44)
+3. Creating Plotting Tools in Python thereby writing scripts for that which are PlotDriver.py, ActionEventPlotter.py and Multiplotter.py for creation of Plotting graphs using python thereby solving the issue [#45](https://github.com/BioGearsEngine/core/issues/45)
+4. Generating of code documentation with Python which involves step by step execution of script wich resolves issue [#42](https://github.com/BioGearsEngine/core/issues/42)
+5. After that I have optimized the code with the help of adding verbose related statements adding threads for faster execution of program code.
+6. My Pull Request can be shown here --> [BioGears Pull Request](https://github.com/BioGearsEngine/core/pull/46)
+_________________________________________________________
