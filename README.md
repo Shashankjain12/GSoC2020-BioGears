@@ -1,5 +1,5 @@
 # BioGears GSoC'20 : Website Porter
-#### 18th August 2020
+#### 24th August 2020
 
 ### Describe my work briefly
  
@@ -18,3 +18,6 @@
 
 ### Repository can be viewed here
 [Link to the BioGears Repository](https://github.com/BioGearsEngine/core)
+
+### Here is my branch which is merged to repository which resolved the above issues
+[Merged branch to the BioGears Repository](https://github.com/BioGearsEngine/core/tree/f/shashankjain12-website)
