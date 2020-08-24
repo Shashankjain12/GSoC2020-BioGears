@@ -21,3 +21,6 @@
 
 ### Here is my branch which is merged to repository which resolved the above issues
 [Merged branch to the BioGears Repository](https://github.com/BioGearsEngine/core/tree/f/shashankjain12-website)
+
+### Changes to repository
+[Git diff of changes commited with the PR](https://github.com/BioGearsEngine/core/compare/f/shashankjain12-website)
