@@ -20,7 +20,7 @@
 [Link to the BioGears Repository](https://github.com/BioGearsEngine/core)
 
 ### Here is my branch which is merged to repository which resolved the above issues
-[Merged branch to the BioGears Repository](https://github.com/BioGearsEngine/core/tree/f/shashankjain12-website)
+[Merged branch to the BioGears Repository](https://github.com/Shashankjain12/core/tree/f/shashank-website)
 
 ### Changes to repository
-[Git diff of changes commited with the PR](https://github.com/BioGearsEngine/core/compare/f/shashankjain12-website)
+[Git diff of changes commited with the PR](https://github.com/BioGearsEngine/core/commit/2e704cb36ccc22dc3f113f2b961546b9e513d646)
